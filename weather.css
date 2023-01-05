@@ -1,4 +1,21 @@
-body{
- font-family: 'Noto Sans',sans-serif;
- text-align: center;   
+body {
+  font-family: "Noto Sans", sans-serif;
+  text-align: center;
+}
+#box{
+    /* border: 2px solid blue; */
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 5%;
+    margin: auto;
+    width: 50%;
+    border-color: FFA500;
+    /* border: 3px solid green; */
+    padding: 10px;
+    
+}
+#city {
+  color: orange;
+}
+#temp{
+    color: brown;
 }

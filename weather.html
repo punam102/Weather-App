@@ -8,6 +8,7 @@
     <title>Weather-App</title>
   </head>
   <body>
+    <div id="box">
     <input id="searchbox" placeholder="search here" type="text" />
     <h2 id="city"></h2>
     <h1 id="temp"></h1>
@@ -15,7 +16,7 @@
     <h4 id="weather"></h4>
     <p id="weather_desc"></p>
     <span id="wind_dir_speed"></span>
-
+</div>
     <script type="text/javascript">
       var searchValue = document.querySelector("#searchbox");
       searchValue.addEventListener("keypress", setFunc);
