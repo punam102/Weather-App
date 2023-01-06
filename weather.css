@@ -23,3 +23,13 @@ body {
     color:
     #FF7F50;
 }
+#min_max_temp{
+  color: darkgoldenrod;
+}
+#weather{
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fcloud-clipart&psig=AOvVaw2hWX9Ar2MZoiDnZZfgMIcY&ust=1673088090454000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCl7_zgsvwCFQAAAAAdAAAAABAK");
+  color: royalblue;
+}
+#wind_dir_speed{
+  color: darkcyan;
+}
